@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
           child: Padding(
             padding: const EdgeInsets.all(25.0),
             child: AspectRatio(
-              aspectRatio: 1.0,
+              aspectRatio: 0.85,
               child: Stopwatch(),
             ),
           ),
